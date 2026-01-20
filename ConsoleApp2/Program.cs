@@ -14,6 +14,7 @@ namespace ConsoleApp2
             //Определить на какой процент подорожал товар
 
             try
+
             {
                 Console.Write("Введите цену ДО подорожания: ");
                 double priceBefore = double.Parse(Console.ReadLine()); 
